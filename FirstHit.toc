@@ -1,0 +1,9 @@
+﻿## Interface: 30300
+## Title: !|cff00ffffAddon Naer|r |cff33ff33[FirstHit]|r
+## Notes: Tracks who is the first to hit a boss.
+## Author: Zorrorojo/Miabuelita (Guild Sedentarios)
+## Version: 1.0
+## X-Part-Of: !|cff00ffffAddon Naer|r
+
+core.lua
+ui.lua

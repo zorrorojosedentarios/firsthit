@@ -1,0 +1,15 @@
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.bak
+*~
+
+# Compressed files
+*.zip
+*.rar
+*.7z
+
+# OS generated files
+.DS_Store
+Thumbs.db
